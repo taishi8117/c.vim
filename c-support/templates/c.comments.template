@@ -38,19 +38,24 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  *
  *       Filename:  |FILENAME|
  *
- *    Description:  <CURSOR>
- *
  *        Version:  1.0
  *        Created:  |DATE| |TIME|
  *       Revision:  none
  *       Compiler:  gcc
+ *    Description:  <CURSOR>
  *
  *         Author:  |AUTHOR| (|AUTHORREF|), |EMAIL|
- *   Organization:  |ORGANIZATION|
  *
  * =====================================================================================
  */
-#include <stdlib.h>
+#include    <stdio.h>
+#include    <stdlib.h>
+#include    <assert.h>
+
+int main (int argc, char **argv){
+    
+    return 0;
+}
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == comment.file-description-header == start ==
 /*

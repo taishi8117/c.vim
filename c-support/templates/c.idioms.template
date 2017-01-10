@@ -6,21 +6,19 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  *  Description:  
  * =====================================================================================
  */
-void<CURSOR>
-|FUNCTION_NAME| ( <+argument list+> )
+void<CURSOR> |FUNCTION_NAME| ( <+argument list+> )
 {
 <SPLIT>	return <+return value+>;
 }		/* -----  end of function |FUNCTION_NAME|  ----- */
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == idioms.function-static ==
 /* 
- * ===  FUNCTION  ======================================================================
+ * ===  STATIC FUNCTION  ===============================================================
  *         Name:  |?FUNCTION_NAME|
  *  Description:  
  * =====================================================================================
  */
-static void<CURSOR>
-|FUNCTION_NAME| ( <+argument list+> )
+static void<CURSOR> |FUNCTION_NAME| ( <+argument list+> )
 {
 <SPLIT>	return <+return value+>;
 }		/* -----  end of static function |FUNCTION_NAME|  ----- */
